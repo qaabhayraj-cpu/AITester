@@ -1,6 +1,6 @@
 # Write Your First QA-Style Prompt
 
-- **Author:** Pramod Dutta
+- **Author:** Abhay Dutta
 - **Role:** Principal SDET
 - **Website:** [The Testing Academy](https://thetestingacademy.com/)
 - **LinkedIn:** [linkedin.com/in/pramoddutta](https://www.linkedin.com/in/pramoddutta/)

@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Course-AI%20Tester%20Blueprint%202X-blueviolet?style=for-the-badge" alt="Course Badge" />
-  <img src="https://img.shields.io/badge/Author-Pramod%20Dutta-orange?style=for-the-badge" alt="Author Badge" />
+  <img src="https://img.shields.io/badge/Author-Abhay%20Dutta-orange?style=for-the-badge" alt="Author Badge" />
   <img src="https://img.shields.io/badge/Platform-n8n-ff6d5a?style=for-the-badge" alt="n8n Badge" />
   <img src="https://img.shields.io/badge/Batch-2X-success?style=for-the-badge" alt="Batch Badge" />
 </p>
@@ -545,7 +545,7 @@ graph TD
 <table>
   <tr>
     <td><strong>Author</strong></td>
-    <td><strong>Pramod Dutta</strong></td>
+    <td><strong>Abhay Dutta</strong></td>
   </tr>
   <tr>
     <td><strong>Academy</strong></td>
@@ -565,15 +565,15 @@ graph TD
   </tr>
   <tr>
     <td><strong>LinkedIn</strong></td>
-    <td><a href="https://linkedin.com/in/interloperinc">Pramod Dutta</a></td>
+    <td><a href="https://linkedin.com/in/interloperinc">Abhay Dutta</a></td>
   </tr>
   <tr>
     <td><strong>GitHub</strong></td>
-    <td><a href="https://github.com/PramodDutta">PramodDutta</a></td>
+    <td><a href="https://github.com/AbhayDutta">AbhayDutta</a></td>
   </tr>
   <tr>
     <td><strong>Repository</strong></td>
-    <td><a href="https://github.com/PramodDutta/AITesterBlueprint2x">AITesterBlueprint2x</a></td>
+    <td><a href="https://github.com/AbhayDutta/AITesterBlueprint2x">AITesterBlueprint2x</a></td>
   </tr>
 </table>
 
